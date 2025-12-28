@@ -1,0 +1,293 @@
+{
+  "video_path": "data\\videos\\stealing002.mp4",
+  "processing_time_seconds": 654.062778,
+  "total_frames": 32,
+  "processed_frames": 32,
+  "total_alerts": 17,
+  "alerts": [
+    {
+      "severity": "CRITICAL",
+      "message": "Armed individual with bladed weapon detected. Potential vehicle tampering in progress.",
+      "timestamp": "00:00:20",
+      "frame_id": 10,
+      "description": "A person in a green shirt and black head covering crouches by the front tire of a grey car. In the background, a man in a dark shirt stands near a white car holding a long, bladed weapon in a threatening stance."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Potential confrontation in progress. Suspicious activity near parked vehicle.",
+      "timestamp": "00:00:22",
+      "frame_id": 11,
+      "description": "A person in a green shirt and a cap crouches by the front of a parked grey car. Another person in dark clothing exits the driver's side of a white car stopped in the middle of the street."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Weapon detected: Person gesturing aggressively with a bladed object.",
+      "timestamp": "00:00:24",
+      "frame_id": 12,
+      "description": "A person in a green shirt crouches by the front of a silver car. A second person in a dark shirt stands nearby, holding a long bladed object and gesturing aggressively."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Potential vehicle tampering or robbery in progress. Suspects still on scene.",
+      "timestamp": "00:00:26",
+      "frame_id": 13,
+      "description": "In an alley, a person in a green shirt and cap crouches by the front of a silver car. A second person in a dark t-shirt stands in the street looking on."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Suspicious Activity: Individual tampering with vehicle tire while another acts as lookout.",
+      "timestamp": "00:00:28",
+      "frame_id": 14,
+      "description": "A man in a dark t-shirt stands in a narrow street next to a silver car.\nAnother man in a green shirt and a cap crouches by the car's front tire, touching the wheel area."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Suspicious activity at vehicle. Suspected robbery or carjacking in progress. Weapon previously sighted.",
+      "timestamp": "00:00:30",
+      "frame_id": 15,
+      "description": "A person stands by a silver car with its hood open in a narrow alley. A white car is parked further down the lane next to residential buildings."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Vehicle tampering in progress. Suspect is under the hood of a silver car.",
+      "timestamp": "00:00:32",
+      "frame_id": 16,
+      "description": "A person in a dark green shirt leans over the open hood of a silver car parked in a narrow alley. A white car is also parked on the same street behind them."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Suspected forced vehicle tampering in progress following an armed threat.",
+      "timestamp": "00:00:34",
+      "frame_id": 17,
+      "description": "A man in a green shirt works on the engine of a silver car with the hood open. Another person stands near the front of the car in a narrow alleyway."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Vehicle tampering in progress following earlier armed threat.",
+      "timestamp": "00:00:36",
+      "frame_id": 18,
+      "description": "A person in a green shirt is bent over the open hood of a silver car parked in a narrow alley. A white car is parked further down the street, and the activity appears normal."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Vehicle tampering in progress following an armed threat.",
+      "timestamp": "00:00:38",
+      "frame_id": 19,
+      "description": "A person in a dark shirt is leaning over the open hood of a silver car in a narrow alley. A white car is parked nearby in what appears to be a normal daytime scene."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Suspicious vehicle tampering in progress following armed incident.",
+      "timestamp": "00:00:40",
+      "frame_id": 20,
+      "description": "In a narrow alley, a person in a green shirt looks into the open engine bay of a silver car. Another person stands behind the car's open hood near a metal gate, while a white car is parked further down the street."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Potential vehicle tampering or theft in progress.",
+      "timestamp": "00:00:42",
+      "frame_id": 21,
+      "description": "A person in a green shirt leans into the open engine bay of a silver car in an alley. Another person stands near the front of the car next to a metal gate."
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Suspicious activity around vehicle. Potential tampering or theft in progress.",
+      "timestamp": "00:00:44",
+      "frame_id": 22,
+      "description": "A person in a green shirt leans into the open hood of a silver car in a narrow alley. Another person stands nearby, and a white car is parked in the background."
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Suspicious activity at vehicle continues; weapon was displayed previously.",
+      "timestamp": "00:00:46",
+      "frame_id": 23,
+      "description": "A person in a green shirt and another individual are looking under the open hood of a silver car. The normal activity takes place in a narrow residential alley with a white car parked in the background."
+    },
+    {
+      "severity": "CRITICAL",
+      "message": "Physical assault in progress at Main Gate.",
+      "timestamp": "00:00:48",
+      "frame_id": 24,
+      "description": "A person in a green shirt aggressively grabs and pulls a person in a dark shirt to the ground. This struggle occurs in a narrow street in front of a parked white car."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Unresolved physical assault. Subject is at the vehicle door.",
+      "timestamp": "00:00:50",
+      "frame_id": 25,
+      "description": "A person in dark clothing stands by the open driver's door of a white car parked in a narrow street. A second car is visible in the foreground."
+    },
+    {
+      "severity": "HIGH",
+      "message": "Potential vehicle break-in or theft in progress.",
+      "timestamp": "00:00:52",
+      "frame_id": 26,
+      "description": "A person in a dark shirt stands on a narrow road and attempts to open the driver's side door of a white car. Another vehicle is partially visible in the foreground."
+    }
+  ],
+  "summary": "Based on the provided data, here is a comprehensive security summary:\n\n**Executive Summary**\n\nThis video captured a critical security incident involving an armed individual and a violent assault. The event progressed from a seemingly normal scene to an armed threat, where an individual with a bladed weapon coerced another person into tampering with a silver vehicle. This situation escalated into a physical altercation, triggering two critical alerts for weapon detection and assault. Immediate review of the full footage is required to identify the individuals, determine the final outcome of the struggle, and provide the video as evidence to law enforcement for a criminal investigation.",
+  "captions": [
+    {
+      "frame_number": 0,
+      "timestamp": "00:00:00",
+      "description": "A gray car is parked on the side of a narrow, paved alleyway. The scene shows normal daytime activity with no visible people or movement."
+    },
+    {
+      "frame_number": 1,
+      "timestamp": "00:00:02",
+      "description": "A grey car is parked in a narrow alleyway between buildings during the day. A tall metal gate is visible on the left side of the alley."
+    },
+    {
+      "frame_number": 2,
+      "timestamp": "00:00:04",
+      "description": "A gray car is parked on the side of a narrow alley during the daytime. The scene appears to show normal activity with no visible people or actions taking place."
+    },
+    {
+      "frame_number": 3,
+      "timestamp": "00:00:06",
+      "description": "A gray car is parked on the side of a narrow paved road in a residential alley. A white car is visible further down the road, and the scene appears normal."
+    },
+    {
+      "frame_number": 4,
+      "timestamp": "00:00:08",
+      "description": "A silver car is parked in the foreground on a narrow residential street. In the distance, a white car is driving down the same street."
+    },
+    {
+      "frame_number": 5,
+      "timestamp": "00:00:10",
+      "description": "A white car is driving down a narrow street in a residential area. A grey car is parked in the foreground on the side of the street."
+    },
+    {
+      "frame_number": 6,
+      "timestamp": "00:00:12",
+      "description": "A white car is driving down a narrow residential street toward the camera's position. A silver car is parked in the foreground on the left side of the street."
+    },
+    {
+      "frame_number": 7,
+      "timestamp": "00:00:14",
+      "description": "From a high-angle perspective, a white car is stationary in a narrow residential street. A portion of a silver car is visible in the foreground, also stationary."
+    },
+    {
+      "frame_number": 8,
+      "timestamp": "00:00:16",
+      "description": "A white car is stopped in a narrow street with the driver's side door open. A grey car is parked in the foreground next to a wall."
+    },
+    {
+      "frame_number": 9,
+      "timestamp": "00:00:18",
+      "description": "A person in a green shirt walks down an alley past a white car with an open door. The activity in the residential area appears normal."
+    },
+    {
+      "frame_number": 10,
+      "timestamp": "00:00:20",
+      "description": "A person in a green shirt and black head covering crouches by the front tire of a grey car. In the background, a man in a dark shirt stands near a white car holding a long, bladed weapon in a threatening stance."
+    },
+    {
+      "frame_number": 11,
+      "timestamp": "00:00:22",
+      "description": "A person in a green shirt and a cap crouches by the front of a parked grey car. Another person in dark clothing exits the driver's side of a white car stopped in the middle of the street."
+    },
+    {
+      "frame_number": 12,
+      "timestamp": "00:00:24",
+      "description": "A person in a green shirt crouches by the front of a silver car. A second person in a dark shirt stands nearby, holding a long bladed object and gesturing aggressively."
+    },
+    {
+      "frame_number": 13,
+      "timestamp": "00:00:26",
+      "description": "In an alley, a person in a green shirt and cap crouches by the front of a silver car. A second person in a dark t-shirt stands in the street looking on."
+    },
+    {
+      "frame_number": 14,
+      "timestamp": "00:00:28",
+      "description": "A man in a dark t-shirt stands in a narrow street next to a silver car.\nAnother man in a green shirt and a cap crouches by the car's front tire, touching the wheel area."
+    },
+    {
+      "frame_number": 15,
+      "timestamp": "00:00:30",
+      "description": "A person stands by a silver car with its hood open in a narrow alley. A white car is parked further down the lane next to residential buildings."
+    },
+    {
+      "frame_number": 16,
+      "timestamp": "00:00:32",
+      "description": "A person in a dark green shirt leans over the open hood of a silver car parked in a narrow alley. A white car is also parked on the same street behind them."
+    },
+    {
+      "frame_number": 17,
+      "timestamp": "00:00:34",
+      "description": "A man in a green shirt works on the engine of a silver car with the hood open. Another person stands near the front of the car in a narrow alleyway."
+    },
+    {
+      "frame_number": 18,
+      "timestamp": "00:00:36",
+      "description": "A person in a green shirt is bent over the open hood of a silver car parked in a narrow alley. A white car is parked further down the street, and the activity appears normal."
+    },
+    {
+      "frame_number": 19,
+      "timestamp": "00:00:38",
+      "description": "A person in a dark shirt is leaning over the open hood of a silver car in a narrow alley. A white car is parked nearby in what appears to be a normal daytime scene."
+    },
+    {
+      "frame_number": 20,
+      "timestamp": "00:00:40",
+      "description": "In a narrow alley, a person in a green shirt looks into the open engine bay of a silver car. Another person stands behind the car's open hood near a metal gate, while a white car is parked further down the street."
+    },
+    {
+      "frame_number": 21,
+      "timestamp": "00:00:42",
+      "description": "A person in a green shirt leans into the open engine bay of a silver car in an alley. Another person stands near the front of the car next to a metal gate."
+    },
+    {
+      "frame_number": 22,
+      "timestamp": "00:00:44",
+      "description": "A person in a green shirt leans into the open hood of a silver car in a narrow alley. Another person stands nearby, and a white car is parked in the background."
+    },
+    {
+      "frame_number": 23,
+      "timestamp": "00:00:46",
+      "description": "A person in a green shirt and another individual are looking under the open hood of a silver car. The normal activity takes place in a narrow residential alley with a white car parked in the background."
+    },
+    {
+      "frame_number": 24,
+      "timestamp": "00:00:48",
+      "description": "A person in a green shirt aggressively grabs and pulls a person in a dark shirt to the ground. This struggle occurs in a narrow street in front of a parked white car."
+    },
+    {
+      "frame_number": 25,
+      "timestamp": "00:00:50",
+      "description": "A person in dark clothing stands by the open driver's door of a white car parked in a narrow street. A second car is visible in the foreground."
+    },
+    {
+      "frame_number": 26,
+      "timestamp": "00:00:52",
+      "description": "A person in a dark shirt stands on a narrow road and attempts to open the driver's side door of a white car. Another vehicle is partially visible in the foreground."
+    },
+    {
+      "frame_number": 27,
+      "timestamp": "00:00:54",
+      "description": "A white car is stopped in a narrow residential street next to a house with a metal gate. A grey car is parked in the foreground."
+    },
+    {
+      "frame_number": 28,
+      "timestamp": "00:00:56",
+      "description": "A white car is stopped in a narrow residential street during the daytime. A grey car is parked in the foreground next to a wall."
+    },
+    {
+      "frame_number": 29,
+      "timestamp": "00:00:58",
+      "description": "A white car is stopped in the middle of a narrow residential street. A silver car is parked in the foreground."
+    },
+    {
+      "frame_number": 30,
+      "timestamp": "00:01:00",
+      "description": "A grey car is parked in a narrow, paved alleyway between buildings during the daytime. A tall metal gate is visible on the left side of the alley."
+    },
+    {
+      "frame_number": 31,
+      "timestamp": "00:01:02",
+      "description": "A gray car is parked on the side of a narrow residential alley during the daytime. The scene appears to be a normal, static view with no people or specific actions visible."
+    }
+  ],
+  "errors": [],
+  "timestamp": "2025-12-27T23:00:49.873992"
+}
