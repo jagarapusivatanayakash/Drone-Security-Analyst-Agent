@@ -35,7 +35,7 @@ class LLMWrapper:
         logger.info(f"Initializing LLM with provider: {self.provider}")
 
         self.llm = ChatGoogleGenerativeAI(
-            model="gemini-2.5-pro",
+            model="gemini-2.5-flash",
             google_api_key=settings.GOOGLE_API_KEY,
             temperature=0.7,
             max_output_tokens=1024,  # Limit output token count
@@ -329,3 +329,4 @@ class LLMWrapper:
         except Exception as e:
             logger.error(f"Error describing image with Gemini: {e}")
             return f"Error describing image: {str(e)}"
+
